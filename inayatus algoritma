@@ -1,0 +1,35 @@
+Python 3.10.7 (tags/v3.10.7:6cc6b13, Sep  5 2022, 14:08:36) [MSC v.1933 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> #Bahasa yang digunakan adalah bahasa pemrograman Python
+>>> #Membuat a String
+>>> #Denagan Single Quotes
+>>> Treasure= 'Thank You'
+>>> print("Terima kasih telah berjalan bergandenagan tangan dijalan yang biasa kujalani sendiri:")
+Terima kasih telah berjalan bergandenagan tangan dijalan yang biasa kujalani sendiri:
+>>> print(Treasure)
+Thank You
+>>> 
+>>> #Membuat String
+>>> #Dengan Double Quotes
+>>> Treasure= "Terimakasih, aku sangat senang bertemu denganmu"
+>>> print("\nDari pada mengucapkan sampai jumapa lagi, tak apa mengucapkan selamat tingal:")
+
+Dari pada mengucapkan sampai jumapa lagi, tak apa mengucapkan selamat tingal:
+>>> print(Treasure)
+Terimakasih, aku sangat senang bertemu denganmu
+>>> #Membuat String
+>>> #Dengan tiga Quotes
+>>> Treasure='"Terimakasih banyak "kuharap kau tidak sakit dan bertemu oarang yang baik""'
+>>> print("\n Saat-saat bahagia berlalu dengan cepat:")
+
+ Saat-saat bahagia berlalu dengan cepat:
+>>> print(Treasure)
+"Terimakasih banyak "kuharap kau tidak sakit dan bertemu oarang yang baik""
+>>> #creating String with triple
+>>> #qoutes allows multipele lines
+>>> Treasure='"Terimakasih telah memberiku segalanya dan mencintaiku"'
+>>> print("\nAku benar-benar bahagia:")
+
+Aku benar-benar bahagia:
+>>> print(Treasure)
+"Terimakasih telah memberiku segalanya dan mencintaiku"
